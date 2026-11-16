@@ -1,0 +1,23 @@
+# Unity generated files and local settings
+/Under The High Wall/[Ll]ibrary/
+/Under The High Wall/[Tt]emp/
+/Under The High Wall/[Oo]bj/
+/Under The High Wall/[Ll]ogs/
+/Under The High Wall/[Uu]ser[Ss]ettings/
+/Under The High Wall/[Bb]uild/
+/Under The High Wall/[Bb]uilds/
+/Under The High Wall/[Mm]emoryCaptures/
+/Under The High Wall/[Rr]ecordings/
+
+# Generated IDE project files and caches
+/Under The High Wall/*.csproj
+/Under The High Wall/*.sln
+/Under The High Wall/*.slnx
+/Under The High Wall/*.user
+.vs/
+.idea/
+
+# OS metadata
+.DS_Store
+Thumbs.db
+Desktop.ini
